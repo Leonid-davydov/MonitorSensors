@@ -12,8 +12,7 @@
 ## Как развернуть локально
 1) Необходимо иметь установленную базу данных PostgreSQL
 2) Склонировать локально этот репозиторий
-3) Указать в application.properties необходимые значения для spring.datasource.username,
-   spring.datasource.password
+3) Указать в application.properties необходимые значения для spring.datasource.url (база данных должна быть пустая) spring.datasource.username, spring.datasource.password
 4) Запустить приложение
 
 ## Как использовать
